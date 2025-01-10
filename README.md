@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://knowledge-cafe13.surge.sh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ibs13/single-blog-page)
 
-This repository contains the **Knowledge Cafe** project, a single blog page built using **React** and styled with **Tailwind CSS**. The project demonstrates responsive design principles and is deployed on Surge for live access.
+This repository contains the **Knowledge Cafe** project, a single blog page built using **React** and styled with **Tailwind CSS**. The project demonstrates design principles and is deployed on Surge for live access.
 
 ---
 
