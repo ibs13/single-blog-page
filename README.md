@@ -12,11 +12,6 @@ This repository contains the **Knowledge Cafe** project, a single blog page buil
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Live Demo](#live-demo)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
